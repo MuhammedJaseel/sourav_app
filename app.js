@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening ort ${port}`);
+  console.log(`Example app listening port ${port}`);
 });
 
 // git add .
