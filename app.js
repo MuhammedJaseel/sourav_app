@@ -12,4 +12,4 @@ app.listen(port, () => {
 
 // git add .
 // git commit -m "test"
-// git push main origin
+// git push origin main
