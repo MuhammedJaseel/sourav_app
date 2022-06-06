@@ -11,6 +11,7 @@ app.get("/data", (req, res) => {
   res.send([
     { name: "jaseel", age: 20 },
     { name: "sourav", age: 25 },
+    { name: "gokul", age: 30 },
   ]);
 });
 app.get("/", (req, res) => {
