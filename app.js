@@ -9,3 +9,7 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+// git add .
+// git commit -m "test"
+// git push main origin
